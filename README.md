@@ -33,18 +33,16 @@ Sistema web de agendamiento de citas para el **Atelier de Modas Sergio Calderón
 
 ## Tecnologías Utilizadas
 
-Tecnología 
-
-Java JDK  25 (Eclipse Adoptium) - Lenguaje principal 
-Apache Maven 3.9.12 - Gestión de dependencias 
-Apache Tomcat  10.1.52 - Servidor de aplicaciones 
-MySQL  - Base de datos relacional 
-JDBC  -  Conexión a base de datos 
-Servlets - Jakarta EE 5.0 - Controladores web 
-JSP Jakarta 3.0 - Vistas del sistema 
-JSTL 2.0 - Librería de etiquetas JSP 
-Bootstrap 5.3 - Framework CSS 
-Font Awesome 6.4 - Iconografía 
+- Java JDK  25 (Eclipse Adoptium) - Lenguaje principal 
+- Apache Maven 3.9.12 - Gestión de dependencias 
+- Apache Tomcat  10.1.52 - Servidor de aplicaciones 
+- MySQL  - Base de datos relacional 
+- JDBC  -  Conexión a base de datos 
+- Servlets - Jakarta EE 5.0 - Controladores web 
+- JSP Jakarta 3.0 - Vistas del sistema 
+- JSTL 2.0 - Librería de etiquetas JSP 
+- Bootstrap 5.3 - Framework CSS 
+- Font Awesome 6.4 - Iconografía 
 
 
 ## Requisitos Previos
@@ -324,19 +322,19 @@ $env:JAVA_HOME = "C:\Program Files\Eclipse Adoptium\jdk-25.0.2.10-hotspot"
 
 ### 7. Acceder al sistema
 
-`http://localhost:8080/agendamiento/` Página principal 
-`http://localhost:8080/agendamiento/login` Inicio de sesión 
-`http://localhost:8080/agendamiento/registro`  Registro de cliente 
-`http://localhost:8080/agendamiento/admin/horarios`  Panel admin 
+- `http://localhost:8080/agendamiento/` Página principal 
+- `http://localhost:8080/agendamiento/login` Inicio de sesión 
+- `http://localhost:8080/agendamiento/registro`  Registro de cliente 
+- `http://localhost:8080/agendamiento/admin/horarios`  Panel admin 
 
 
 
 ## Aprendices
 
-Diego Armando Higuita Cortés
-Gean Carlos Coplas Romero 
-Luis Eduardo Zabaleta Mora 
-Yessica Alejandra Martínez Rincón 
+- Diego Armando Higuita Cortés.
+- Gean Carlos Coplas Romero. 
+- Luis Eduardo Zabaleta Mora.
+- Yessica Alejandra Martínez Rincón.
 
 **Institución:** Servicio Nacional de Aprendizaje — SENA  
 **Programa:** Análisis y Desarrollo de Software  
@@ -345,6 +343,6 @@ Yessica Alejandra Martínez Rincón
 
 ---
 
-> 💡 **Credenciales de prueba:**  
+> **Credenciales de prueba:**  
 > Admin: `admin@sergiocalderon.com` / `admin123`  
 > Cliente: Registrar nueva cuenta en `/registro`
